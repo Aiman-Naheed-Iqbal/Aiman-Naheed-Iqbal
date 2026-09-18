@@ -188,14 +188,6 @@ Hi! I'm **Aiman Naheed Iqbal**, a passionate **Artificial Intelligence student a
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aiman-Naheed-Iqbal&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aiman-Naheed-Iqbal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aiman-Naheed-Iqbal&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
 ---
 
 # 🌱 My Development Journey
