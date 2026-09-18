@@ -9,10 +9,6 @@
   />
 </h2>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aiman-Naheed-Iqbal&label=Profile%20Views&color=7F5AF0&style=flat-square" alt="Profile Views"/>
-</p>
-
 ---
 
 ## 👋 About Me
