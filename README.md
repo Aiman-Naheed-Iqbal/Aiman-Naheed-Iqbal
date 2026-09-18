@@ -212,9 +212,7 @@ I'm continuously working on strengthening my fundamentals, exploring modern tech
 <img src="https://img.shields.io/badge/LinkedIn-Aiman%20Naheed%20Iqbal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:aimeekhan756@gmail.com">
-<img src="https://img.shields.io/badge/Email-aimeekhan756%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<a href="mailto:aimeekhan756@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a>
 
 </p>
 
